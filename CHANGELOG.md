@@ -10,6 +10,7 @@
 
 ### Patch Changes
 
+- [#3](https://github.com/sevenwestmedia-labs/apple-news-format/pull/3) [`760ea2c`](https://github.com/sevenwestmedia-labs/apple-news-format/commit/760ea2c93b3bbb574bb9b14c81dcf2ef34b0aefd) Thanks [@bennettp123](https://github.com/bennettp123)! - fix changeset workflow
 - [#2](https://github.com/sevenwestmedia-labs/apple-news-format/pull/2) [`30e7f87`](https://github.com/sevenwestmedia-labs/apple-news-format/commit/30e7f87fd5dcbb8795079b2c2ddff858a5fd2e04) Thanks [@bennettp123](https://github.com/bennettp123)! - test publish
 
 ## v2.0.0 - April 4, 2024
