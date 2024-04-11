@@ -1,5 +1,11 @@
 # Changelog
 
+## 2.0.3
+
+### Patch Changes
+
+- [#7](https://github.com/sevenwestmedia-labs/apple-news-format/pull/7) [`983c762`](https://github.com/sevenwestmedia-labs/apple-news-format/commit/983c7624649f2161e8a93b4e2a0941494bfb9e30) Thanks [@shaw-t](https://github.com/shaw-t)! - Update repository and homepage fields in package.json
+
 ## 2.0.2
 
 ### Patch Changes
@@ -15,7 +21,7 @@
 
 ## v2.0.0 - April 4, 2024
 
- - [#1](https://github.com/sevenwestmedia-labs/apple-news-format/pull/1) [`3fdf454`](https://github.com/sevenwestmedia-labs/apple-news-format/commit/3fdf4548c1e1e10f7d283255d3391a64ecca80b9) Thanks [@shaw-t](https://github.com/shaw-t)! - Update ANF typing to support 1.26.0
+- [#1](https://github.com/sevenwestmedia-labs/apple-news-format/pull/1) [`3fdf454`](https://github.com/sevenwestmedia-labs/apple-news-format/commit/3fdf4548c1e1e10f7d283255d3391a64ecca80b9) Thanks [@shaw-t](https://github.com/shaw-t)! - Update ANF typing to support 1.26.0
 
 This should bring the typings up to date with ANF 1.26.0 in regards to the documentation supplied by Apple
 
